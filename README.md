@@ -11,13 +11,6 @@ In addition to web development, I have research experience in software analytics
 I'm also passionate about machine learning and data engineering. I've worked on projects involving data preprocessing, feature engineering, and building predictive models. I find it fascinating to leverage data to gain meaningful insights and solve real-world problems. Now, I am working on adversarial attacks on deep learning models in order to develop more secure and reliable models.
 
 
-## Skills
-
-- Frontend Development: HTML, CSS, JavaScript, React
-- Backend Development: Node.js, Express, RESTful APIs
-- Machine Learning: Data preprocessing, feature engineering, deep learning 
-- Google Cloud: Google App Engine, Google Compute Engine, Cloud Storage, Cloud Functions
-
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,react,html,css,nodejs,gcp)](https://skillicons.dev)
 ##
