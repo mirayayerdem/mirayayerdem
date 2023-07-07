@@ -19,7 +19,7 @@ I'm also passionate about machine learning and data engineering. I've worked on 
 - Google Cloud: Google App Engine, Google Compute Engine, Cloud Storage, Cloud Functions
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,react,html,css,node.js,google cloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,react,html,css,node.js,gcp)](https://skillicons.dev)
 ##
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
