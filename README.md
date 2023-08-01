@@ -14,7 +14,7 @@ I'm also passionate about machine learning and data engineering. I've worked on 
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,react,html,css,nodejs,gcp)](https://skillicons.dev)
 ##
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirayayerdem&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## Contact Me
 
