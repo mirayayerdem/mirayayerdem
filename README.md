@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Miray Ayerdem, a Senior Computer Science student at Bilkent University. Welcome to my GitHub profile!
+I'm Miray Ayerdem, a PhD student candidate at Boston University. Welcome to my GitHub profile!
 
 ## About Me
 
